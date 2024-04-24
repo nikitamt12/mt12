@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 20px 50px;
+}
+
+.about {
+    background-color: chartreuse;
+    padding: 20px 50px;
+}
+
+.article {
+    background-color: blue;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.avatar {
+    display: block;
+    margin: 150px auto;
+    width: 200px;
+}
+
+.list {
+    margin-left: 50px;
+    font-size: 1.5em;
+}
+
+nav {
+    padding: 10px 50px;
+}
+
+.menu {
+    list-style: none;
+}
+.content{
+    padding: 50px
+}
+.text1{
+    padding: 20px;  
+    font-size: 20px;
+}
+.text2{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    }
+  
